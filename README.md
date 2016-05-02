@@ -36,6 +36,6 @@ $ npm install buchanaf/react-dependencies
 - superagent
 - superagent-promise-plugin
 - webpack
--webpack-dev-middleware
--webpack-hot-middleware
--webpack-isomorphic-tools
+- webpack-dev-middleware
+- webpack-hot-middleware
+- webpack-isomorphic-tools
